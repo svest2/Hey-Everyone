@@ -4,7 +4,7 @@
     <h1>Samantha Vest</h1>
      <h2>Who am I</h2>
       <p>
-        My name is Samantha Vest, I am a graduate at Liberty University.<br>
+        My name is Samantha Vest and I am a graduate at Liberty University.<br>
         I got a B.S in IT: Web and Mobile Programing.
      </p> 
     <h2>What I do</h2>
