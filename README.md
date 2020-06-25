@@ -11,10 +11,10 @@
       <p>
         I am a web developer/designer, with multiple skills in coding.<br>
         I have coded in html, css, sql, js. xml, etc. I have also used frameworks<br>
-        such as Bootstrap and JQuery.
+        such as Bootstrap and JQuery. Using my skills I have made a couple of apps and websites.
       </p>
     <h2>Contact me</h2>
     <p>Phone: 540-513-6202</p>
     <p>Email: svest2@liberty.edu</p>
-  </body>
+   </body>
   </html>
