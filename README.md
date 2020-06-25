@@ -1,6 +1,5 @@
 <!DOCTYPE html>
   <html>
-  <title>Hi Everyone</title>
   <body>
     <h1>Samantha Vest</h1>
      <h2>Who am I</h2>
@@ -15,7 +14,7 @@
         such as Bootstrap and JQuery.
       </p>
     <h2>Contact me</h2>
-      Phone: 540-513-6202
-      Email: svest2@liberty.edu
+    <p>Phone: 540-513-6202</p>
+    <p>Email: svest2@liberty.edu</p>
   </body>
   </html>
